@@ -1,4 +1,4 @@
-I've completed Api testing on thetestingworldapi website,
+I've completed Api testing on "https://restful-booker.herokuapp.com/" website,
 
 tested methods are create,get,update and delete.
 
